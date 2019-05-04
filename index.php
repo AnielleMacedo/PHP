@@ -3,6 +3,8 @@
 
 echo "hello world --- OLA MUNDO";
 
-echo "aluno Udemy";
+
+echo "aluno Udemy e hcode pra resolver o ocnflito";
+
 
 ?>
