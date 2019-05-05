@@ -1,10 +1,5 @@
 <?php
 
-
-echo "hello world --- OLA MUNDO";
-
-
-echo "aluno Udemy e hcode pra resolver o ocnflito";
-
+echo"Meu primeiro <strong>hello world</strong> em php";
 
 ?>
